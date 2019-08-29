@@ -1,0 +1,12 @@
+[submodule "ref/classifier/toutiao-text-classfication-dataset"]
+	path = ref/classifier/toutiao-text-classfication-dataset
+	url = https://github.com/fate233/toutiao-text-classfication-dataset.git
+[submodule "ref/seq2seq/couplet-dataset"]
+	path = ref/seq2seq/couplet-dataset
+	url = https://github.com/wb14123/couplet-dataset.git
+[submodule "ref/poem/tensorflow_poems"]
+	path = ref/poem/tensorflow_poems
+	url = https://github.com/jinfagang/tensorflow_poems.git
+[submodule "ref/poem/chinese-poetry"]
+	path = ref/poem/chinese-poetry
+	url = https://github.com/chinese-poetry/chinese-poetry.git
